@@ -18,7 +18,7 @@ namespace OjoDeSauronDemo1
         static string endpoint = "";
 
         // URL image used for analyzing an image (image of puppy)
-        private const string ANALYZE_URL_IMAGE = "https://moderatorsampleimages.blob.core.windows.net/samples/sample16.png";
+        private const string ANALYZE_URL_IMAGE = "https://github.com/dbarriguete/OjoDeSauronDemo1/blob/main/OjoDeSauronDemo1/img/Ejemplo01.png";
 
         public int ReviewPersons()
         {
