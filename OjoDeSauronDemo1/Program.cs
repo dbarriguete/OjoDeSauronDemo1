@@ -9,7 +9,7 @@ namespace OjoDeSauronDemo1
             ComputerVisionQuickStart sauronseye = new ComputerVisionQuickStart();
             int countofpersons = sauronseye.ReviewPersons();
 
-            System.Console.WriteLine($"The image has {countofpersons} persons.");
+            
         }
     }
 }
